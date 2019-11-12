@@ -18,11 +18,11 @@
   10*9.9
   
 
-  'fastcampus'
-  "fastcampus"
-  '패스트캠퍼스'
+  'kepcosw'
+  "kepcosw"
+  '한국전력공사'
   
-  fast
+  kepco
 
   
 
